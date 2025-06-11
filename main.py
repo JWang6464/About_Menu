@@ -1,12 +1,13 @@
 """
 Filename: recursive_menu_program.py
-Author: Jordan Wang
-Date: June 10, 2025
 Description: This program demonstrates recursion with a menu-based interface
 that allows users to calculate factorials, find Fibonacci numbers,
 and (optionally) draw a recursive fractal using the turtle module.
 
 Created as part of my Cognizant Externship.
+
+Jordan Wang
+6/11/2025
 """
 
 import turtle
